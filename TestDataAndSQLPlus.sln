@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDataAndSQLPlus", "TestDataAndSQLPlus\TestDataAndSQLPlus.csproj", "{1BA07101-B772-4EBF-8175-3C358C79D4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA07101-B772-4EBF-8175-3C358C79D4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA07101-B772-4EBF-8175-3C358C79D4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA07101-B772-4EBF-8175-3C358C79D4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA07101-B772-4EBF-8175-3C358C79D4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BD57D3-9183-4ACE-8495-90085DAB33AC}
+	EndGlobalSection
+EndGlobal
