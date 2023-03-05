@@ -60,7 +60,7 @@ namespace TestDataAndSQLPlus
             {
                 MessageBox.Show("Добро пожаловать!", "Вы вошли в аккаунт", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 // !!!
-                Form1 form1 = new Form1();
+                TableAdmin form1 = new TableAdmin();
                 this.Hide();
                 form1.ShowDialog();
             }
